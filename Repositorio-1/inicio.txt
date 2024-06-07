@@ -5,3 +5,7 @@ MENU DE INICIO
 2- Colocar botones que nos direccionen a distintas partes de la app
 3- Realizar formulario de inicio de sesion
 4- Crear carteles de alerta si no llegua a colocar bien las credenciales y el usuario y contraseña
+
+PASO 1
+1-Buscar imagenes (pendiente)
+
